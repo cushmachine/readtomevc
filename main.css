@@ -1,8 +1,17 @@
 body{
 	font-family: 'Open Sans', sans-serif;
+}
 
 #header{
 	width: 100%;
 	height: 75px;
-	color: red;
+	background-color: red;
+}
+
+.wrap{
+	display: table;
+	width: 430px;
+	height: 80%;
+	margin: 0 auto;
+	background-color: blue;
 }
